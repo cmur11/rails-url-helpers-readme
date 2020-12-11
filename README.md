@@ -129,7 +129,7 @@ know that you could call the index URLs for each resource below:
 * Offers - `offers_path`
 * Coupons - `coupons_path`
 
-This is an example of the Rails design goal: "convention over configuration."
+This is an example of the Rails design goal: "convention over configuration."r
 Rails' convention is that resources are accessible through their pluralized
 name with `_path` tacked on. Since **all** Rails developers honor these
 conventions, Rails developers rapidly come to feel at home in other Rails
